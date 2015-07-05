@@ -13,4 +13,7 @@ We name our class, methods and naming is everywhere. So we should follow naming 
 #ClazzesActivity.java
 When we clicked on a button, we try to launch a new Activity. Here in this case we create lots of duplicate code but we can avoid it by creating a generic method. 
 
-If you want to use this improvement in your code. Please do a pull. Or if you have any confusion or any suggetion, please let me know. 
+#TestDb.java
+How to test your code using android test frameword before releasing your actual code. 
+
+If you want to apply this techniques in your code, please do a pull. Or if you have any confusion or any suggetion, please let me know. 
